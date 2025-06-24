@@ -17,7 +17,7 @@ Atua não só como ferramenta, mas como uma extensão do raciocínio do usuário
 
 🛠️ Como funciona?
 🔗 Você não precisa programar.
-→ Basta descrever, como fez aqui, arquétipos de atuação, funções, passivas, habilidades e comportamentos desejados.
+→ Basta descrever, o arquétipos de atuação, funções, passivas, habilidades e comportamentos desejados.
 
 O que está salvo?
 → O pacto verbal. O contrato da comunicação.
